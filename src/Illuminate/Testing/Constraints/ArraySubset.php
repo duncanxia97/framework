@@ -4,7 +4,6 @@ namespace Illuminate\Testing\Constraints;
 
 use ArrayObject;
 use PHPUnit\Framework\Constraint\Constraint;
-use PHPUnit\Runner\Version;
 use SebastianBergmann\Comparator\ComparisonFailure;
 use Traversable;
 
